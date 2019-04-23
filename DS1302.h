@@ -24,7 +24,7 @@
 #define     SCLK_TRIS   TRISJbits.TRISJ2
 #define     CE_TRIS     TRISJbits.TRISJ3
 
-#define _XTAL_FREQ 40000000L
+#define _XTAL_FREQ 32000000L
 
 typedef union {
     struct {
